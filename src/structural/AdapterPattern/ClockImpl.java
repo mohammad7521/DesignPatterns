@@ -1,8 +1,7 @@
-package AdapterPattern;
+package structural.AdapterPattern;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
-import java.util.Date;
 
 public class ClockImpl implements Clock{
 

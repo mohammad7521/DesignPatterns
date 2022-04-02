@@ -1,4 +1,4 @@
-package AdapterPattern;
+package structural.AdapterPattern;
 
 public interface Watch  {
 

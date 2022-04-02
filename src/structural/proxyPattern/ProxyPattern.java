@@ -1,3 +1,5 @@
+package structural.proxyPattern;
+
 public class ProxyPattern {
 
     //the proxy pattern is used to act as an interface to another resource
